@@ -1,16 +1,20 @@
 ## Oláá! Me chamo Henrique de Mattia!
-- 🔭 Sou desenvolvedor Full Stack, Focado em Front-end!
-- :writing_hand: Atualmente estou estudando TypeScript, e aprimorando minhas abilidades em React 
+- 🔭 Sou desenvolvedor Full Stack, fcado em Front-end!
+- :writing_hand: Atualmente estou estudando TypeScript, e aprimorando minhas habilidades em React
 
+##
 
 <div align="center">
   <a href="https://github.com/henriquemattia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemattia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemattia&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
-  <div align="center"><sup>🤔 Creio eu que a liguangem mais usada está aparecendo como python por que meus projetos em REACT usam arquivos .JSX </sup></div>
+  <div align="center"><sup>🤔 Creio eu que a liguangem mais usada está aparecendo como python porque meus projetos em REACT usam arquivos .JSX </sup></div>
+  
+  ##
+  
 </div>
-
+<div>Tecnologias que domino :point_down:</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,7 +30,8 @@
   
   ##
  
-<div style="display: inline_block" > 
+<div>Caso queira conversar ou tenha alguma dúvida pode me chamar nos links abaixo :point_down:  estarei sempre à disposição :relaxed:</div><br />
+<div style="display: inline_block" align="center"> 
   
   <a href="https://www.linkedin.com/in/henrique-mattia-3b4400245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/henriquemattia" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -34,16 +39,10 @@
  </div> 
 
 <!--
-**henriquemattia/henriquemattia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-:nerd_face:
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
