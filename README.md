@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/henriquemattia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemattia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemattia&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henriquemattia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemattia&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
   <div align="center"><sup>🤔 Creio eu que a liguangem mais usada está aparecendo como python porque meus projetos em REACT usam arquivos .JSX </sup></div>
   
