@@ -1,4 +1,4 @@
-## Olá! Me chamo Henrique de Mattia!
+# Olá! Me chamo Henrique de Mattia!
 - 🔭 Sou desenvolvedor Full Stack, focado em Front-end!
 - :writing_hand: Atualmente estou estudando TypeScript, e aprimorando minhas habilidades em React
 
@@ -14,7 +14,7 @@
   ##
   
 </div>
-## Tecnologias que domino :point_down:
+Tecnologias que domino :point_down:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
