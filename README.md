@@ -9,11 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemattia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemattia&layout=compact&langs_count=7&theme=midnight-purple&exclude_repo=backPrincipal"/>
   </a>
-  
-  <!-- 
-  <div align="center"><sup>🤔 Creio eu que a liguangem mais usada está aparecendo como python porque meus projetos em REACT usam arquivos .JSX </sup></div>
-  -->
-  
   ##
   
 </div>
@@ -43,3 +38,7 @@ Tecnologias que domino :point_down:
    <a href="https://api.whatsapp.com/send?phone=5549998339450&text=Oi%2C%20vim%20pelo%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.instagram.com/_henriiique____/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div> 
+
+  <!-- 
+  <div align="center"><sup>🤔 Creio eu que a liguangem mais usada está aparecendo como python porque meus projetos em REACT usam arquivos .JSX </sup></div>
+  -->
