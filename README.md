@@ -1,4 +1,4 @@
-# Olá! Me chamo Henrique de Mattia!
+# Olá! Me chamo Henrique Mattia!
 - 🔭 Sou desenvolvedor Full Stack, focado em Front-end!
 - :writing_hand: Atualmente estou estudando TypeScript, e aprimorando minhas habilidades em React
 
