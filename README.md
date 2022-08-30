@@ -4,15 +4,16 @@
 
 ##
 
-<span >
-  <a href="https://github.com/henriquemattia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemattia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemattia&layout=compact&langs_count=7&theme=midnight-purple&exclude_repo=backPrincipal"/>
-  </a>
+<div align="center" >
+  <span>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemattia&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemattia&layout=compact&langs_count=7&theme=midnight-purple"/>
+  </span>
+  </div>
   
   ##
   
-</span>
+
 Tecnologias que domino :point_down:
 
 <div style="display: inline_block"><br>
