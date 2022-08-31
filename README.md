@@ -7,15 +7,15 @@
 <div align="center" >
   <span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemattia&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemattia&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemattia&layout=compact&langs_count=7&theme=midnight-purple&card_width=100"/>
   </span>
-  <div align="center"><sup>🤔 Creio eu que a liguangem mais usada está aparecendo como python porque meus projetos em REACT usam arquivos .JSX </sup></div>
+  
   </div>
   
   ##
   
 
-Tecnologias que domino :point_down:
+### Tecnologias que utilizo :point_down:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -43,5 +43,5 @@ Tecnologias que domino :point_down:
  </div> 
 
   <!-- 
-  
+  <div align="center"><sup>🤔 Creio eu que a liguangem mais usada está aparecendo como python porque meus projetos em REACT usam arquivos .JSX </sup></div>
   -->
